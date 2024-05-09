@@ -30,6 +30,10 @@ main{
     margin: 50px 0;
 }
 
+.formLogin a:hover{
+    cursor: pointer;
+}
+
 .formLogin label {
     font-size: 4rem;
 }
@@ -51,4 +55,9 @@ main{
     padding: 20px;
     height: 120px;
     font-size: 2rem;
+}
+
+/*sign*/
+.sign{
+    display: none;
 }
